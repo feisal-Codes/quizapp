@@ -1,0 +1,50 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color:#292E49;
+  height: 100vh;
+  
+}
+.flex {
+  width: 400px;
+  margin-top: 8rem;
+  background-color:#E4E5E6;
+  margin: 0px;
+  padding: 0px;
+  margin: 0 auto;
+
+  margin-top: 8rem;
+  
+}
+.flex h2 {
+  width: 100%;
+  padding-top:1.5rem;
+  padding-left: 1.5rem;
+  font-size: 25px;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  margin-bottom: 10px;
+}
+.btn {
+  width: 100%;
+  font-size: 15px;
+  border: none;
+  padding: 0.5rem;
+  text-align: center;
+  cursor: pointer;
+  background-color: #00416A;
+  color:white;
+  
+}
+
+.radios{
+    cursor:pointer;
+    
+}
+
+
+
+
+
